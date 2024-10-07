@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/ad44cce9-bcd4-4b91-ad27-45e51dca274b)# Laracroft
-
-
 ## packages
 
 AR Foundation 5.1.2 v
